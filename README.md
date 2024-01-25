@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Anny+Brito;I'm+21+years+old;I'm+from+Brazil;I+Full-Stack+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=annyybrito&bg_color=FF00FF&color=FF00FF&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=annyybrito&bg_color=FF00FF&color=FFFFFF&line=FFFFFF&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
@@ -12,8 +12,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=annyybrito&show_icons=true&count_private=true&hide_border=true&title_color=FF00FF&icon_color=FF00FF&text_color=FF00FF&bg_color=0d1117" alt="Anny Brito github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annyybrito&layout=compact&hide_border=true&title_color=FF00FF&text_color=FF00FF&bg_color=FF00FF" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=annyybrito&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FF00FF&text_color=FFFFFF&bg_color=0d1117" alt="Anny Brito github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annyybrito&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=FF00FF" />
 </div>
 
 
@@ -24,16 +24,15 @@
  </div>
  
  ### Main skills:
-![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![CSHARP](https://img.shields.io/badge/-csharp-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
+![Vue.js](https://img.shields.io/badge/-vue.js-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117)&nbsp;
+![CSHARP](https://img.shields.io/badge/-csharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
 
 
 ### Studying in this moment:
-![Vue.js](https://img.shields.io/badge/-vue.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![.NET](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![.NET](https://img.shields.io/badge/-.net-0D1117?style=for-the-badge&logo=.net&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
@@ -43,4 +42,4 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=footer"/>
